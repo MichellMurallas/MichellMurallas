@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>www.linkedin.com/in/michellq</p>
+<p>michellsms893@gmail.com</p>
 <p align="left">
 </p>
 
